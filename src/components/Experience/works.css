@@ -1,0 +1,41 @@
+#works {
+    margin: 0 auto;
+    min-height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 60rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+.worksTitle {
+    margin: 1rem 0;
+    font-size: 3rem;
+    color: black;
+}
+
+
+.link {
+    font-weight: 400;
+    font-size: 2rem;
+    color: white;
+    max-width: 50rem;
+    padding: 0 2rem;
+}
+
+
+.workDesc {
+    font-weight: 300;
+    font-size: 1.25rem;
+    color: black;
+}
+
+.projImg {
+    object-fit: cover;
+    height: 3rem;
+    width: 3rem;
+    margin-right: 2rem;
+}
