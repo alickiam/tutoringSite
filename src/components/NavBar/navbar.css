@@ -61,6 +61,7 @@
     object-fit: cover;
     height: 1.8rem;
     width: 1.8rem;
+    /* color: white; */
 }
 
 .navMenu {
@@ -73,7 +74,7 @@
     padding: 0.5rem;
     height: fit-content;
     min-width: 15rem;
-    background: rgb(40, 40, 40);
+    background: rgb(133, 161, 242);
     border-radius: 1rem;
 }
 
